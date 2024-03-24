@@ -1,5 +1,5 @@
 ---
-title : "Xác minh Email vào SES"
+title : "Xác minh email vào SES"
 date :  "`r Sys.Date()`" 
 weight : 7
 chapter : false

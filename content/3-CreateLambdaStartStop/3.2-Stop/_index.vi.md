@@ -1,5 +1,5 @@
 ---
-title : "Tạo Stop instance"
+title : "Tạo stop instance"
 date :  "`r Sys.Date()`" 
 weight : 2
 chapter : false

@@ -21,6 +21,6 @@ Dưới đây là mô hình triển khai bạn có thể tham khảo:
 1. [Giới thiệu](1-introduce/)
 2. [Các bước chuẩn bị](2-createvpc-ec2/)
 3. [Tạo AWS Lambda và Amazon EventBridge](3-createlambdastartstop/)
-4. [Tạo cảnh báo về Email khi Instance thay đổi trạng thái](4-createiam-ses/)
-5. [Demo bài LAB](5-combinetogether/)
+4. [Tạo cảnh báo về email khi instance thay đổi trạng thái](4-createiam-ses/)
+5. [Demo lab](5-combinetogether/)
 6. [Xóa tài nguyên](6-delete/)

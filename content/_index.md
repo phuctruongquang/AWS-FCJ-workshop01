@@ -21,6 +21,6 @@ Below is the deployment model you can refer to:
 1. [Introduce](1-introduce/)
 2. [Preparation steps](2-createvpc-ec2/)
 3. [Create AWS Lambda and Amazon EventBridge](3-createlambdastartstop/)
-4. [Create Email notifications when version status changes](4-createiam-ses/)
-5. [LAB Demo](5-combinetogether/)
+4. [Create email notifications when version status changes](4-createiam-ses/)
+5. [Demo lab](5-combinetogether/)
 6. [Delete resource](6-delete/)

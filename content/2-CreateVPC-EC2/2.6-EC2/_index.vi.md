@@ -1,5 +1,5 @@
 ---
-title : "Tạo EC2 Instance"
+title : "Tạo EC2 instance"
 date :  "`r Sys.Date()`" 
 weight : 6
 chapter : false

@@ -1,5 +1,5 @@
 ---
-title : "Tạo Route table"
+title : "Tạo route table"
 date :  "`r Sys.Date()`" 
 weight : 4
 chapter : false

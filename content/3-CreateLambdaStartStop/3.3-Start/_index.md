@@ -1,5 +1,5 @@
 ---
-title : "Create a Start instance"
+title : "Create a start instance"
 date : "`r Sys.Date()`"
 weight : 3
 chapter : false

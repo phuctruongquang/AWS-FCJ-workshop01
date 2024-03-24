@@ -8,8 +8,8 @@ pre : " <b> 3. </b> "
 
 #### Content
 
-1. [Create Role](3.1-createpolicies/)
-2. [Create Lambda Stop](3.2-stop/)
-3. [Create Lambda Start](3.3-start/)
-4. [Create Schelude EventBridge Stop EC2](3.4-schedulestop/)
-5. [Create Schelude EventBridge Start EC2](3.5-schedulestart/)
+1. [Create role](3.1-createpolicies/)
+2. [Create Lambda stop](3.2-stop/)
+3. [Create Lambda start](3.3-start/)
+4. [Create Schelude EventBridge stop EC2](3.4-schedulestop/)
+5. [Create Schelude EventBridge start EC2](3.5-schedulestart/)

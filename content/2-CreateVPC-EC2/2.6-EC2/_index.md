@@ -1,5 +1,5 @@
 ---
-title : "Create EC2 Instance"
+title : "Create EC2 instance"
 date : "`r Sys.Date()`"
 weight : 6
 chapter : false

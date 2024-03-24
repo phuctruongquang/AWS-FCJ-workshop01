@@ -1,5 +1,5 @@
 ---
-title : "Tạo Schelude EventBridge Start EC2"
+title : "Tạo Schelude EventBridge start EC2"
 date :  "`r Sys.Date()`" 
 weight : 5
 chapter : false

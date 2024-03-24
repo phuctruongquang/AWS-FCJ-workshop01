@@ -1,5 +1,5 @@
 ---
-title : "Create Rule EventBridge"
+title : "Create rule EventBridge"
 date : "`r Sys.Date()`"
 weight : 3
 chapter : false

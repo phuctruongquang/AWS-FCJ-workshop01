@@ -1,5 +1,5 @@
 ---
-title : "Tạo Lambda Start"
+title : "Tạo Lambda start"
 date :  "`r Sys.Date()`" 
 weight : 3
 chapter : false

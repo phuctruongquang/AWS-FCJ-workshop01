@@ -1,5 +1,5 @@
 ---
-title : "Create Security group"
+title : "Create security group"
 date : "`r Sys.Date()`"
 weight : 5
 chapter : false

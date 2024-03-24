@@ -1,5 +1,5 @@
 ---
-title : "LAB Demo"
+title : "Demo lab"
 date : "`r Sys.Date()`"
 weight : 5
 chapter : false

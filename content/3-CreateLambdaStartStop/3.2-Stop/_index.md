@@ -1,5 +1,5 @@
 ---
-title : "Create a Stop instance"
+title : "Create a stop instance"
 date : "`r Sys.Date()`"
 weight : 2
 chapter : false
