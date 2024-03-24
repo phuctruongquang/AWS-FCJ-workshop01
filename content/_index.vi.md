@@ -18,9 +18,9 @@ Dưới đây là mô hình triển khai bạn có thể tham khảo:
    ![1-introduce sodo](/aws-fcj-workshop01/images/1-introduce/Workshop01-Introduce.png?width=70pc)
 
 #### Nội dung
-1. [Giới thiệu](1-Introduce/_index.md)
-2. [Các bước chuẩn bị](2-CreateVPC-EC2/_index.vi.md)
-3. [Tạo AWS Lambda và Amazon EventBridge](3-CreateLambdaStartStop/_index.vi.md)
-4. [Tạo cảnh báo về Email khi Instance thay đổi trạng thái](4-CreateIAM-SES/_index.vi.md)
-5. [Demo bài LAB](5-CombineTogether/_index.vi.md)
-6. [Xóa tài nguyên](6-Delete/_index.vi.md)
+1. [Giới thiệu](1-Introduce)
+2. [Các bước chuẩn bị](2-CreateVPC-EC2)
+3. [Tạo AWS Lambda và Amazon EventBridge](3-CreateLambdaStartStop)
+4. [Tạo cảnh báo về Email khi Instance thay đổi trạng thái](4-CreateIAM-SES)
+5. [Demo bài LAB](5-CombineTogether)
+6. [Xóa tài nguyên](6-Delete)

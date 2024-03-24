@@ -18,9 +18,9 @@ Below is the deployment model you can refer to:
    ![1-introduce sodo](/aws-fcj-workshop01/images/1-introduce/Workshop01-Introduce.png?width=70pc)
 
 #### Content
-1. [Introduce](1-Introduce/_index.md)
-2. [Preparation steps](2-CreateVPC-EC2/_index.md)
-3. [Create AWS Lambda and Amazon EventBridge](3-CreateLambdaStartStop/_index.md)
-4. [Create Email notifications when version status changes](4-CreateIAM-SES/_index.md)
-5. [LAB Demo](5-CombineTogether/_index.md)
-6. [Delete resource](6-Delete/_index.md)
+1. [Introduce](1-Introduce)
+2. [Preparation steps](2-CreateVPC-EC2)
+3. [Create AWS Lambda and Amazon EventBridge](3-CreateLambdaStartStop)
+4. [Create Email notifications when version status changes](4-CreateIAM-SES)
+5. [LAB Demo](5-CombineTogether)
+6. [Delete resource](6-Delete)
