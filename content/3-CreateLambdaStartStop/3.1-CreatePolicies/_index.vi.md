@@ -87,7 +87,7 @@ pre : " <b> 3.1 </b> "
    - **Tích chọn Policy**
    - Chọn **Next**
 
-   ![alt text](/images/3-CreateIAMPolicy-Role/0007.png?width=90pc)
+   ![alt text](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0007.png?width=90pc)
 
 4. Tiếp theo
 

@@ -32,8 +32,10 @@ pre : " <b> 3.3 </b> "
    - Chọn **Code**
    - Xóa đoạn mã cũ và dán đoạn mã mới bên dưới và chỉnh sửa **Region, Instance**
    - Chọn Deploy
-   - Bạn nhớ chỉnh lại **Region** nhé. Ở bài này mình đang ở Region **Singapore** nên nhập **```ap-southeast-1```**
    - **Instance** thì bạn qua EC2 copy ID nhé
+  {{% notice note %}}
+   Bạn nhớ chỉnh lại **Region** nhé. Ở bài này mình đang ở Region **Singapore** nên nhập **```ap-southeast-1```**
+   {{% /notice %}}
 
    ![create lambda start](/aws-fcj-workshop01/images/4-CreateLambda/2LambdaStart/0013.png?width=90pc)
 
@@ -48,7 +50,7 @@ pre : " <b> 3.3 </b> "
                print('started your instances: ' + str(instances))
          
 
-4. Bước tiếp theo chúng ta thực hiện thử bật instance
+1. Bước tiếp theo chúng ta thực hiện thử bật instance
 
    - Chọn **Test**
    - Chọn **Create new event**

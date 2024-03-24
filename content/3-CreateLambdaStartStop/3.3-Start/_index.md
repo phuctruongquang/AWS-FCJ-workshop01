@@ -32,9 +32,10 @@ pre : " <b> 3.3 </b> "
    - Select **Code**
    - Delete the old code and paste the new code below and edit **Region, Instance**
    - Select Deploy
-   - Remember to adjust **Region**. In this article, I am in Region **Singapore** so enter **```ap-southeast-1```**
    - For **Instance**, you can go to EC2 and copy the ID
-
+    {{% notice note %}}
+   Remember to adjust **Region**. In this article, I am in Region **Singapore** so enter **```ap-southeast-1```**
+    {{% /notice %}}
    ![create lambda start](/aws-fcj-workshop01/images/4-CreateLambda/2LambdaStart/0013.png?width=90pc)
 
 

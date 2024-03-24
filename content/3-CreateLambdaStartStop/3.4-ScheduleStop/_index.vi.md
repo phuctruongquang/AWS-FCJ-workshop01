@@ -47,7 +47,7 @@ pre : " <b> 3.4 </b> "
 
    - Kéo xuống và chọn **Next**
 
-   ![create Schedule Stop](v/images/4-CreateLambda/3CreateEventBridgeStop/0005.png?width=90pc)
+   ![create Schedule Stop](/aws-fcj-workshop01/images/4-CreateLambda/3CreateEventBridgeStop/0005.png?width=90pc)
 
 
 5. Tiếp theo
