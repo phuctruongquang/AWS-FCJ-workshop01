@@ -7,7 +7,7 @@ pre : " <b> 2. </b> "
 ---
 
 #### Preparation steps
-1. [Create VPC](2.1-vpc)
+1. [Create VPC](2.1-vpcs)
 2. [Create Subnet](2.2-subnets)
 3. [Create Internet gateway](2.3-igw)
 4. [Create Route table](2.4-route)
