@@ -8,7 +8,7 @@ pre : " <b> 1. </b> "
 
 #### Giới thiệu về AWS Lambda
 
-   ![introduce lambda](/images/1-introduce/0001-lambda.png?width=30pc)
+   ![introduce lambda](/ws1/images/1-introduce/0001-lambda.png?width=30pc)
 
 **AWS Lambda** (tạm gọi tắt là Lambda) là một dịch vụ điện toán phi máy chủ (serverless), dựa trên mô hình FaaS (Function-as-a-service). Khi sử dụng dịch vụ này, người dùng sẽ không cần quan tâm đến hạ tầng hệ thống bên dưới. Lambda sẽ thực thi các đoạn code do người dùng quy định khi được yêu cầu. Điều này giúp người dùng, đặc biệt là các lập trình viên (developer) sẽ có nhiều thời gian hơn để tập trung vào phát triển ứng dụng của mình.
 
@@ -26,7 +26,7 @@ Người dùng sử dụng các ngôn ngữ lập trình được hỗ trợ ph�
 
 #### Giới thiệu về Amazon EventBridge
 
-   ![introduce EventBridge](/images/1-introduce/0002-eventbridge.png?width=30pc)
+   ![introduce EventBridge](/ws1/images/1-introduce/0002-eventbridge.png?width=30pc)
 
 **Amazon EventBridge** là dịch vụ cho phép bạn xây dựng các ứng dụng phản ứng với các sự kiện một cách nhanh chóng, dễ dàng và an toàn. EventBridge cung cấp một bus sự kiện phi tập trung, cho phép bạn truyền sự kiện giữa các ứng dụng, dịch vụ và tài nguyên AWS.
 
@@ -50,7 +50,7 @@ Người dùng sử dụng các ngôn ngữ lập trình được hỗ trợ ph�
 
 #### Giới thiệu về Amazon Simple Email Service
 
-   ![introduce SES](/images/1-introduce/0003-SES.png?width=30pc)
+   ![introduce SES](/ws1/images/1-introduce/0003-SES.png?width=30pc)
 
 **Amazon Simple Email Service (SES)** là dịch vụ gửi email với số lượng lớn, tiết kiệm chi phí và được xây dựng trên cơ sở hạ tầng đáng tin cậy, có quy mô linh hoạt do Amazon phát hành. Với Amazon SES, bạn có thể sử dụng nhiều giải pháp khác nhau như: gửi email giao dịch, thư tiếp thị, thử trả lời tự động hay bất kỳ nội dung nào khác.
 

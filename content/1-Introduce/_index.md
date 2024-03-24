@@ -8,7 +8,7 @@ pre : " <b> 1. </b> "
 
 #### Introducing AWS Lambda
 
-   ![introduce lambda](/images/1-introduce/0001-lambda.png?width=30pc)
+   ![introduce lambda](/ws1/images/1-introduce/0001-lambda.png?width=30pc)
 
 **AWS Lambda** (temporarily called Lambda) is a serverless computing service, based on the FaaS (Function-as-a-service) model. When using this service, users will not need to care about the underlying system infrastructure. Lambda will execute user-specified code when required. This helps users, especially programmers, have more time to focus on developing their applications.
 
@@ -25,7 +25,7 @@ Users use the above supported programming languages to create Lambda functions. 
 
 #### Introducing Amazon EventBridge
 
-   ![introduce EventBridge](/images/1-introduce/0002-eventbridge.png?width=30pc)
+   ![introduce EventBridge](/ws1/images/1-introduce/0002-eventbridge.png?width=30pc)
 
 **Amazon EventBridge** is a service that allows you to build applications that react to events quickly, easily, and securely. EventBridge provides a decentralized event bus that allows you to transfer events between applications, services, and AWS resources.
 
@@ -49,7 +49,7 @@ Users use the above supported programming languages to create Lambda functions. 
 
 #### Introducing Amazon Simple Email Service
 
-   ![introduce SES](/images/1-introduce/0003-SES.png?width=30pc)
+   ![introduce SES](/ws1/images/1-introduce/0003-SES.png?width=30pc)
 
 **Amazon Simple Email Service (SES)** is a cost-effective, high-volume email sending service built on reliable, scalable infrastructure released by Amazon. With Amazon SES, you can use a variety of solutions: send transactional emails, marketing messages, test autoresponders, or anything else.
 

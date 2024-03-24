@@ -1,5 +1,4 @@
-relativeURLs = true
-# Change the default theme to be use when building the site with Hugo
+#Change the default theme to be use when building the site with Hugo
 BaseURL = "https://phuctruongquang.github.io/aws-fcj-workshop01/"
 theme = "hugo-theme-learn"
 
