@@ -34,7 +34,7 @@ pre : " <b> 3.3 </b> "
    - Chọn Deploy
    - **Instance** thì bạn qua EC2 copy ID nhé
   {{% notice note %}}
-   Bạn nhớ chỉnh lại **Region** nhé. Ở bài này mình đang ở Region **Singapore** nên nhập **```ap-southeast-1```**
+   Ở bài này mình đang ở Region **Singapore** nên nhập **```ap-southeast-1```**
    {{% /notice %}}
 
    ![create lambda start](/aws-fcj-workshop01/images/4-CreateLambda/2LambdaStart/0013.png?width=90pc)

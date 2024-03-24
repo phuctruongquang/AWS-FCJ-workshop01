@@ -47,7 +47,7 @@ pre : " <b> 3.2 </b> "
    - Select Deploy
    - **Instance** Then go to EC2 and copy the ID
    {{% notice note %}}
-   Remember to adjust **Region**. In this article, I am in Region **Singapore** so enter **```ap-southeast-1```**
+   In this article, I am in Region **Singapore** so enter **```ap-southeast-1```**
    {{% /notice %}}
 
    ![create lambda stop](/aws-fcj-workshop01/images/4-CreateLambda/1LambdaStop/0006.png?width=90pc)
