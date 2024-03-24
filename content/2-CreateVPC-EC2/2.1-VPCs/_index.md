@@ -29,6 +29,7 @@ pre : " <b> 2.1 </b> "
 
    ![create VPC](/aws-fcj-workshop01/images/2-createVPC/1CreateVPC/0003.png?width=90pc)
 
+
 4. VPC successfully created **lambda-start-stop**
 
    ![create VPC](/aws-fcj-workshop01/images/2-createVPC/1CreateVPC/0004.png?width=90pc)

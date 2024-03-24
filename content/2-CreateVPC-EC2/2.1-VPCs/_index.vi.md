@@ -27,7 +27,7 @@ pre : " <b> 2.1 </b> "
    - IPv4 CIDR nhập **```10.0.0.0/16```**
    - Chọn **Create VPC**
 
-   ![create VPC](/images/2-createVPC/1CreateVPC/0003.png?width=90pc)
+   ![create VPC](/aws-fcj-workshop01/images/2-createVPC/1CreateVPC/0003.png?width=90pc)
 
 4. Tạo thành công VPC **lambda-start-stop**
 
