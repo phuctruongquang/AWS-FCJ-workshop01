@@ -13,13 +13,13 @@ pre : " <b> 3.2 </b> "
    - Find **Lambda**
    - Select **Lambda**
 
-   ![create lambda stop](/images/4-CreateLambda/1LambdaStop/0001.png?width=90pc)
+   ![create lambda stop](/aws-fcj-workshop01/images/4-CreateLambda/1LambdaStop/0001.png?width=90pc)
 
 2. In the **Lambda** interface
 
    - Select **Create Function**
   
-   ![create lambda stop](/images/4-CreateLambda/1LambdaStop/0002.png?width=90pc)
+   ![create lambda stop](/aws-fcj-workshop01/images/4-CreateLambda/1LambdaStop/0002.png?width=90pc)
 
 3. Next step
 
@@ -30,15 +30,15 @@ pre : " <b> 3.2 </b> "
    - Select **Use an existing role**
    - Select **LambdaEC2Role**
 
-   ![create lambda stop](/images/4-CreateLambda/1LambdaStop/0003.png?width=90pc)
+   ![create lambda stop](/aws-fcj-workshop01/images/4-CreateLambda/1LambdaStop/0003.png?width=90pc)
 
    - Scroll down and select **Create function**
 
-   ![create lambda stop](/images/4-CreateLambda/1LambdaStop/0004.png?width=90pc)
+   ![create lambda stop](/aws-fcj-workshop01/images/4-CreateLambda/1LambdaStop/0004.png?width=90pc)
 
    - Lambda Stop function successfully created
 
-   ![create lambda stop](/images/4-CreateLambda/1LambdaStop/0005.png?width=90pc)
+   ![create lambda stop](//aws-fcj-workshop01images/4-CreateLambda/1LambdaStop/0005.png?width=90pc)
 
 4. Next step
 
@@ -48,7 +48,7 @@ pre : " <b> 3.2 </b> "
    - Remember to adjust **Region**. In this article, I am in Region **Singapore** so enter **```ap-southeast-1```**
    - **Instance** Then go to EC2 and copy the ID
 
-   ![create lambda stop](/images/4-CreateLambda/1LambdaStop/0006.png?width=90pc)
+   ![create lambda stop](/aws-fcj-workshop01/images/4-CreateLambda/1LambdaStop/0006.png?width=90pc)
 
          import boto3
          region = 'ap-southeast-1'
@@ -61,7 +61,7 @@ pre : " <b> 3.2 </b> "
    
    - Successfully deployed
 
-   ![create lambda stop](/images/4-CreateLambda/1LambdaStop/0007.png?width=90pc)
+   ![create lambda stop](/aws-fcj-workshop01/images/4-CreateLambda/1LambdaStop/0007.png?width=90pc)
 
 5. The next step we will try to turn off the instance
 
@@ -72,12 +72,12 @@ pre : " <b> 3.2 </b> "
    - Select **Save**
    - Select **Test**
 
-   ![create lambda stop](/images/4-CreateLambda/1LambdaStop/0008.png?width=90pc)
+   ![create lambda stop](/aws-fcj-workshop01/images/4-CreateLambda/1LambdaStop/0008.png?width=90pc)
 
    - Successful notification
 
-   ![create lambda stop](/images/4-CreateLambda/1LambdaStop/0009.png?width=90pc)
+   ![create lambda stop](/aws-fcj-workshop01/images/4-CreateLambda/1LambdaStop/0009.png?width=90pc)
 
    - Return to EC2 to review the status of the **Stopped** instance
 
-   ![create lambda stop](/images/4-CreateLambda/1LambdaStop/0010.png?width=90pc)
+   ![create lambda stop](/aws-fcj-workshop01/images/4-CreateLambda/1LambdaStop/0010.png?width=90pc)

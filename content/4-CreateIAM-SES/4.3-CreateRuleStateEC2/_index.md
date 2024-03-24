@@ -13,14 +13,14 @@ pre : " <b> 4.3 </b> "
    - Find **Amazon EventBridge**
    - Select **Amazon EventBridge**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0001.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0001.png?width=90pc)
 
 2. In the **Amazon EventBridge** interface
 
     - Select **Rules**
     - Select **Create rule**
   
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0002.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0002.png?width=90pc)
 
 3. Next **Rule detail**
 
@@ -28,7 +28,7 @@ pre : " <b> 4.3 </b> "
    - Select **Rule with an event pattern**
    - Select **Next**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0003.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0003.png?width=90pc)
 
 
 4. Next step, scroll down to the **Event pattern** section
@@ -40,7 +40,7 @@ pre : " <b> 4.3 </b> "
    - Event type Specification 2 select **Specific instance id(s)** Specific instance id(s) enter the ID of the Linux instance
    - Next select **Next**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0004.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0004.png?width=90pc)
 
 5. Next step
 
@@ -48,16 +48,16 @@ pre : " <b> 4.3 </b> "
    - Select **LambdaSendMail**
    - Select **Next**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0005.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0005.png?width=90pc)
 
     - Select **Next**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0006.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0006.png?width=90pc)
 
     - Select **Create rule**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0007.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0007.png?width=90pc)
 
     - Rule has been created successfully
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0008.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0008.png?width=90pc)

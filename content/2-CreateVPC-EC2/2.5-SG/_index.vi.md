@@ -13,7 +13,7 @@ pre : " <b> 2.5 </b> "
    - Chọn **Security groups**
    - Chọn **Create Security group**
   
-    ![create SG](/images/2-createVPC/5CreateSG/0001.png?width=90pc)
+    ![create SG](/aws-fcj-workshop01/images/2-createVPC/5CreateSG/0001.png?width=90pc)
 
 2. Giao diện **Create security group**
 
@@ -26,12 +26,12 @@ pre : " <b> 2.5 </b> "
    - Type chọn **ALL ICMP- IPv4**
    - Source chọn **0.0.0.0/0**
 
-    ![create SG](/images/2-createVPC/5CreateSG/0002.png?width=90pc)
+    ![create SG](/aws-fcj-workshop01/images/2-createVPC/5CreateSG/0002.png?width=90pc)
 
 3. Kéo xuống và chọn **Create security group**
    
-    ![create SG](/images/2-createVPC/5CreateSG/0003.png?width=90pc)
+    ![create SG](/aws-fcj-workshop01/images/2-createVPC/5CreateSG/0003.png?width=90pc)
 
 4. Tạo thành công
 
-    ![create SG](/images/2-createVPC/5CreateSG/0004.png?width=90pc)
+    ![create SG](/aws-fcj-workshop01/images/2-createVPC/5CreateSG/0004.png?width=90pc)

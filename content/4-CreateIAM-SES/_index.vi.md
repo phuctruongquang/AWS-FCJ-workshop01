@@ -7,7 +7,7 @@ pre : " <b> 4. </b> "
 ---
 Dưới đây là mô hình bạn có thể tham khảo:
 
-![1-intrduce sendmail](/images/1-introduce/Workshop01-EC2SendMail.png?width=50pc)
+![1-intrduce sendmail](/aws-fcj-workshop01/images/1-introduce/Workshop01-EC2SendMail.png?width=50pc)
 
 **Nội dung:**
 1. [Tạo Role](4.1-CreateRoleSendMail)

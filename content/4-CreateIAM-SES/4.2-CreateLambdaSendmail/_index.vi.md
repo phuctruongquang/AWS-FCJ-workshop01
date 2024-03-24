@@ -13,13 +13,13 @@ pre : " <b> 4.2 </b> "
    - Tìm **Lambda**
    - Chọn **Lambda**
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0001.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0001.png?width=90pc)
 
 2. Trong giao diện **Lambda**
 
    - Chọn **Create Function**
   
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0002.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0002.png?width=90pc)
 
 3. Tiếp theo
 
@@ -29,14 +29,14 @@ pre : " <b> 4.2 </b> "
    - Chọn vào mũi tên **Change default execution role**
    - Chọn **Use an existing role**
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0003.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0003.png?width=90pc)
 
 
 
     - Kéo xuống và chọn role **StateChangeEC2Role**
     - Chọn **Create function**
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0004.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0004.png?width=90pc)
 
 4. Tiếp theo
 
@@ -44,7 +44,7 @@ pre : " <b> 4.2 </b> "
    - Xóa đoạn mã cũ và dán đoạn mã mới bên dưới và chỉnh sửa **Email** mà bạn đã xác minh ở **SES**
    - Chọn Deploy
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0005.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0005.png?width=90pc)
 
             import json
             import boto3
@@ -62,7 +62,7 @@ pre : " <b> 4.2 </b> "
    
    - Deploy thành công
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0006.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0006.png?width=90pc)
 
 5. Bước tiếp theo chúng ta thử nghiệm
 
@@ -73,8 +73,8 @@ pre : " <b> 4.2 </b> "
    - Chọn **Save**
    - Chọn **Test**
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0007.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0007.png?width=90pc)
 
    - Mở **Email** kiểm tra. Sẽ có một thông báo được gửi về
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0008.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0008.png?width=90pc)

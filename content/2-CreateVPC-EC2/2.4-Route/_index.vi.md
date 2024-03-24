@@ -13,7 +13,7 @@ pre : " <b> 2.4 </b> "
    - Chọn **Route tables**
    - Chọn **Create Route table**
   
-    ![create route](/images/2-createVPC/4CreateRoute/0001.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0001.png?width=90pc)
 
 2. Giao diện **Route table settings**
 
@@ -21,14 +21,14 @@ pre : " <b> 2.4 </b> "
    - Chọn **VPC lambda-start-stop**
    - Chọn **Create route table**
 
-    ![create route](/images/2-createVPC/4CreateRoute/0002.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0002.png?width=90pc)
 
 3. Chọn **Route tables**
    
    - Chọn **Routes**
    - Chọn **Edit Routes**
   
-    ![create route](/images/2-createVPC/4CreateRoute/0003.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0003.png?width=90pc)
   
   
 
@@ -43,7 +43,7 @@ pre : " <b> 2.4 </b> "
    - Chọn **igw-start-stop**
  - Chọn **Save changes**
   
-    ![create route](/images/2-createVPC/4CreateRoute/0004.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0004.png?width=90pc)
 
 
 5. Chọn **Route tables**
@@ -51,9 +51,9 @@ pre : " <b> 2.4 </b> "
    - Chọn **Subnet associations**
    - Chọn **Edit Subnet associations**
 
-    ![create route](/images/2-createVPC/4CreateRoute/0005.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0005.png?width=90pc)
 
    - Tích chọn **subnet-start-stop**
    - Chọn **Save associations**
   
-    ![create route](/images/2-createVPC/4CreateRoute/0006.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0006.png?width=90pc)

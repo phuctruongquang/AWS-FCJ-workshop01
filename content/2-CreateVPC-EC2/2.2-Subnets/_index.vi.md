@@ -1,7 +1,7 @@
 ---
 title : "Tạo Subnet"
 date :  "`r Sys.Date()`" 
-weight : 2
+weight : 2 
 chapter : false
 pre : " <b> 2.2 </b> "
 ---
@@ -13,7 +13,7 @@ pre : " <b> 2.2 </b> "
    - Chọn **Subnets**
    - Chọn **Create Subnet**
   
-   ![create subnet](/images/2-createVPC/2CreateSubnet/0001.png?width=90pc)
+   ![create subnet](/aws-fcj-workshop01/images/2-createVPC/2CreateSubnet/0001.png?width=90pc)
 
 
 2. Giao diện **Create subnet**
@@ -24,12 +24,12 @@ pre : " <b> 2.2 </b> "
    - IPv4 CIDR chọn **10.0.0.0/16**
    - IPv4 subnet CIDR block nhập **```10.0.10.0/24```**
   
-   ![create subnet](/images/2-createVPC/2CreateSubnet/0002.png?width=90pc)
+   ![create subnet](/aws-fcj-workshop01/images/2-createVPC/2CreateSubnet/0002.png?width=90pc)
 
 3. Kéo xuống và chọn **Create subnet**
 
-   ![create subnet](/images/2-createVPC/2CreateSubnet/0003.png?width=90pc)
+   ![create subnet](/aws-fcj-workshop01/images/2-createVPC/2CreateSubnet/0003.png?width=90pc)
 
 4. **Subnet** được tạo thành công
 
-   ![create subnet](/images/2-createVPC/2CreateSubnet/0004.png?width=90pc)
+   ![create subnet](/aws-fcj-workshop01/images/2-createVPC/2CreateSubnet/0004.png?width=90pc)

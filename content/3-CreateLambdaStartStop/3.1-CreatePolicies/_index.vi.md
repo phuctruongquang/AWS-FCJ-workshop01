@@ -13,14 +13,14 @@ pre : " <b> 3.1 </b> "
    - Tìm **IAM**
    - Chọn **IAM**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0001.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0001.png?width=90pc)
 
 2. Trong giao diện **IAM**
 
    - Chọn **Policies**
    - Chọn **Create Policy**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0002.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0002.png?width=90pc)
 
 3. Bước tiếp theo
 
@@ -53,14 +53,14 @@ pre : " <b> 3.1 </b> "
 
    
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0003.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0003.png?width=90pc)
 
 4. **Policy details**
 
    - Policy name nhập **```LambdaEC2Policy```**
    - Chọn **Create Policy**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0004.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0004.png?width=90pc)
 
    - Vậy là chúng ta đã tạo thành công Policy
 
@@ -71,7 +71,7 @@ pre : " <b> 3.1 </b> "
    - Chọn **Roles**
    - Chọn **Create Role**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0005.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0005.png?width=90pc)
 
 2. Tiếp theo
 
@@ -79,7 +79,7 @@ pre : " <b> 3.1 </b> "
    - Use case chọn **Lambda**
    - Chọn **Next**.
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0006.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0006.png?width=90pc)
 
 3. Tiếp theo
 
@@ -93,13 +93,13 @@ pre : " <b> 3.1 </b> "
 
    - Role name nhập  **```LambdaEC2Role```**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0008.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0008.png?width=90pc)
 
    
    - Chọn **Create Role**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0009.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0009.png?width=90pc)
 
 5. Tạo thành công **Role**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0010.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0010.png?width=90pc)

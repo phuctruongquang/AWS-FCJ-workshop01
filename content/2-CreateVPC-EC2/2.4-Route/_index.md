@@ -13,7 +13,7 @@ pre : " <b> 2.4 </b> "
    - Select **Route tables**
    - Select **Create Route table**
   
-    ![create route](/images/2-createVPC/4CreateRoute/0001.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0001.png?width=90pc)
 
 2. Interface **Route table settings**
 
@@ -21,14 +21,14 @@ pre : " <b> 2.4 </b> "
    - Select **VPC lambda-start-stop**
    - Select **Create route table**
 
-    ![create route](/images/2-createVPC/4CreateRoute/0002.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0002.png?width=90pc)
 
 3. Select **Route tables**
    
    - Select **Routes**
    - Select **Edit Routes**
   
-    ![create route](/images/2-createVPC/4CreateRoute/0003.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0003.png?width=90pc)
   
   
 
@@ -43,7 +43,7 @@ pre : " <b> 2.4 </b> "
    - Select **igw-start-stop**
    - Select **Save changes**
   
-    ![create route](/images/2-createVPC/4CreateRoute/0004.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0004.png?width=90pc)
 
 
 5. Select **Route tables**
@@ -51,9 +51,9 @@ pre : " <b> 2.4 </b> "
    - Select **Subnet associations**
    - Select **Edit Subnet associations**
 
-    ![create route](/images/2-createVPC/4CreateRoute/0005.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0005.png?width=90pc)
 
    - Select **subnet-start-stop**
    - Select **Save associations**
   
-    ![create route](/images/2-createVPC/4CreateRoute/0006.png?width=90pc)
+    ![create route](/aws-fcj-workshop01/images/2-createVPC/4CreateRoute/0006.png?width=90pc)

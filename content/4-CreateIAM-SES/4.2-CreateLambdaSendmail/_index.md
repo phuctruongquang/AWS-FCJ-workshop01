@@ -13,13 +13,13 @@ pre : " <b> 4.2 </b> "
    - Find **Lambda**
    - Select **Lambda**
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0001.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0001.png?width=90pc)
 
 2. In the **Lambda** interface
 
    - Select **Create Function**
   
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0002.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0002.png?width=90pc)
 
 3. Next step
 
@@ -29,14 +29,14 @@ pre : " <b> 4.2 </b> "
    - Select the arrow **Change default execution role**
    - Select **Use an existing role**
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0003.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0003.png?width=90pc)
 
 
 
     - Scroll down and select role **StateChangeEC2Role**
     - Select **Create function**
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0004.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0004.png?width=90pc)
 
 4. Next step
 
@@ -44,7 +44,7 @@ pre : " <b> 4.2 </b> "
    - Delete the old code and paste the new code below and edit the **Email** you verified in **SES**
    - Select Deploy
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0005.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0005.png?width=90pc)
 
             import json
             import boto3
@@ -62,7 +62,7 @@ pre : " <b> 4.2 </b> "
    
    - Deployed successfully
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0006.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0006.png?width=90pc)
 
 5. The next step is testing
 
@@ -73,8 +73,8 @@ pre : " <b> 4.2 </b> "
    - Select **Save**
    - Select **Test**
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0007.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0007.png?width=90pc)
 
    - Open **Email** to check. A notification will be sent
 
-    ![Lambda send mail](/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0008.png?width=90pc)
+    ![Lambda send mail](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/1CreateLambdaToMail/0008.png?width=90pc)

@@ -13,7 +13,7 @@ pre : " <b> 3.5 </b> "
    - Chọn **Schedules**
    - Chọn **Create Schedule**
 
-   ![create EventBridge Start](/images/4-CreateLambda/4CreateEventBridgeStart/0001.png?width=90pc)
+   ![create EventBridge Start](/aws-fcj-workshop01/images/4-CreateLambda/4CreateEventBridgeStart/0001.png?width=90pc)
 
 2. Trong **Specify schedule detail**
 
@@ -21,7 +21,7 @@ pre : " <b> 3.5 </b> "
    - Chọn **Recurring schedule**
    - Chọn **(UTC+07:00) Asia/BangKok**
 
-   ![create EventBridge Start](/images/4-CreateLambda/4CreateEventBridgeStart/0002.png?width=90pc)
+   ![create EventBridge Start](/aws-fcj-workshop01/images/4-CreateLambda/4CreateEventBridgeStart/0002.png?width=90pc)
 
 3. Tiếp theo
 
@@ -29,7 +29,7 @@ pre : " <b> 3.5 </b> "
    - Phần **Cron experssion** phần này chúng ta sẽ nhập giờ thực tế mà bạn mong muốn Instance Start nhé. Tham khảo tại [Schedule types on EventBridge Scheduler](https://docs.aws.amazon.com/scheduler/latest/UserGuide/schedule-types.html?icmpid=docs_console_unmapped)
    - Chọn **OFF**
 
-   ![create EventBridge Start](/images/4-CreateLambda/4CreateEventBridgeStart/0003.png?width=90pc)
+   ![create EventBridge Start](/aws-fcj-workshop01/images/4-CreateLambda/4CreateEventBridgeStart/0003.png?width=90pc)
 
    - **Minutes** -> Nhập phút bạn muốn tắt instance
    - **Hours** -> Nhập giờ mà bạn muốn tắt instance
@@ -40,7 +40,7 @@ pre : " <b> 3.5 </b> "
 
    - Kéo xuống và chọn **Next**
 
-   ![create EventBridge Start](/images/4-CreateLambda/4CreateEventBridgeStart/0004.png?width=90pc)
+   ![create EventBridge Start](/aws-fcj-workshop01/images/4-CreateLambda/4CreateEventBridgeStart/0004.png?width=90pc)
 
 
 4. Tiếp theo
@@ -48,7 +48,7 @@ pre : " <b> 3.5 </b> "
    - Chọn **Templated targets**
    - Chọn **AWS Lambda Invoke**
 
-   ![create EventBridge Start](/images/4-CreateLambda/4CreateEventBridgeStart/0005.png?width=90pc)
+   ![create EventBridge Start](/aws-fcj-workshop01/images/4-CreateLambda/4CreateEventBridgeStart/0005.png?width=90pc)
 
 5. Kéo xuống bên dưới
    - Phần **Invoke**
@@ -60,7 +60,7 @@ pre : " <b> 3.5 </b> "
             "action": "start"
          }
             
-   ![create EventBridge Start](/images/4-CreateLambda/4CreateEventBridgeStart/0006.png?width=90pc)
+   ![create EventBridge Start](/aws-fcj-workshop01/images/4-CreateLambda/4CreateEventBridgeStart/0006.png?width=90pc)
 
 6. Tiếp theo và kéo xuống cuối trang
 
@@ -68,7 +68,7 @@ pre : " <b> 3.5 </b> "
    
    - Chọn **Next**
 
-   ![create EventBridge Start](/images/4-CreateLambda/4CreateEventBridgeStart/0007.png?width=90pc)
+   ![create EventBridge Start](/aws-fcj-workshop01/images/4-CreateLambda/4CreateEventBridgeStart/0007.png?width=90pc)
 
    {{% notice note %}}
    Ở phần Role name này sẽ được tạo ra và nằm tại [CloudWatch](https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups) Log group, bạn có thể xem thêm
@@ -76,16 +76,16 @@ pre : " <b> 3.5 </b> "
 
    - Kéo xuống và chọn **Create schedule**
 
-   ![create EventBridge Start](/images/4-CreateLambda/4CreateEventBridgeStart/0008.png?width=90pc)
+   ![create EventBridge Start](/aws-fcj-workshop01/images/4-CreateLambda/4CreateEventBridgeStart/0008.png?width=90pc)
 
    - Lịch tự động đã được tạo thành công
 
-   ![create EventBridge Start](/images/4-CreateLambda/4CreateEventBridgeStart/0009.png?width=90pc)
+   ![create EventBridge Start](/aws-fcj-workshop01/images/4-CreateLambda/4CreateEventBridgeStart/0009.png?width=90pc)
 
    - Bạn chờ tới thời gian đã đặt trước đó, và quay lại EC2 kiểm tra instance
    - Trạng thái instance đã **Pending**
 
-   ![create EventBridge Start](/images/4-CreateLambda/4CreateEventBridgeStart/0010.png?width=90pc)
+   ![create EventBridge Start](/aws-fcj-workshop01/images/4-CreateLambda/4CreateEventBridgeStart/0010.png?width=90pc)
 
    {{% notice note %}}
    Nếu đã đến giờ mà instance chưa thay đổi trạng thái thì bạn hãy ấn refresh và chờ thêm 1-3p nữa nhé!

@@ -8,7 +8,7 @@ pre : " <b> 4. </b> "
 
 Below is the model you can refer to:
 
-![1-intrduce sendmail](/images/1-introduce/Workshop01-EC2SendMail.png?width=50pc)
+![1-intrduce sendmail](/aws-fcj-workshop01/images/1-introduce/Workshop01-EC2SendMail.png?width=50pc)
 
 **Content:**
 1. [Create Role](4.1-CreateRoleSendMail)

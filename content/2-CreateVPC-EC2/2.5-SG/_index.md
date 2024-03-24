@@ -13,7 +13,7 @@ pre : " <b> 2.5 </b> "
    - Select **Security groups**
    - Select **Create Security group**
   
-    ![create SG](/images/2-createVPC/5CreateSG/0001.png?width=90pc)
+    ![create SG](/aws-fcj-workshop01/images/2-createVPC/5CreateSG/0001.png?width=90pc)
 
 2. Interface **Create security group**
 
@@ -26,12 +26,12 @@ pre : " <b> 2.5 </b> "
    - Type Select **ALL ICMP- IPv4**
    - Source Select **0.0.0.0/0**
 
-    ![create SG](/images/2-createVPC/5CreateSG/0002.png?width=90pc)
+    ![create SG](/aws-fcj-workshop01/images/2-createVPC/5CreateSG/0002.png?width=90pc)
 
 3. Scroll down and select **Create security group**
    
-    ![create SG](/images/2-createVPC/5CreateSG/0003.png?width=90pc)
+    ![create SG](/aws-fcj-workshop01/images/2-createVPC/5CreateSG/0003.png?width=90pc)
 
 4. Created successfully
 
-    ![create SG](/images/2-createVPC/5CreateSG/0004.png?width=90pc)
+    ![create SG](/aws-fcj-workshop01/images/2-createVPC/5CreateSG/0004.png?width=90pc)

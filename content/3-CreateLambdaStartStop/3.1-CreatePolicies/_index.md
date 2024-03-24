@@ -13,14 +13,14 @@ pre : " <b> 3.1 </b> "
    - Find **IAM**
    - Select **IAM**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0001.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0001.png?width=90pc)
 
 2. In the **IAM** interface
 
    - Select **Policies**
    - Select **Create Policy**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0002.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0002.png?width=90pc)
 
 3. Next step
 
@@ -53,14 +53,14 @@ pre : " <b> 3.1 </b> "
 
    
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0003.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0003.png?width=90pc)
 
 4. **Policy details**
 
    - Policy name enter **```LambdaEC2Policy```**
    - Select **Create Policy**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0004.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0004.png?width=90pc)
 
    - So we have successfully created Policy
 
@@ -71,7 +71,7 @@ pre : " <b> 3.1 </b> "
    - Select **Roles**
    - Select **Create Role**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0005.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0005.png?width=90pc)
 
 2. Next step
 
@@ -79,7 +79,7 @@ pre : " <b> 3.1 </b> "
    - Use case select **Lambda**
    - Select **Next**.
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0006.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0006.png?width=90pc)
 
 3. Next step
 
@@ -93,13 +93,13 @@ pre : " <b> 3.1 </b> "
 
    - Role name enter  **```LambdaEC2Role```**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0008.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0008.png?width=90pc)
 
    
    - Select **Create Role**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0009.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0009.png?width=90pc)
 
 5. Successfully created **Role**
 
-   ![create IAM policy](/images/3-CreateIAMPolicy-Role/0010.png?width=90pc)
+   ![create IAM policy](/aws-fcj-workshop01/images/3-CreateIAMPolicy-Role/0010.png?width=90pc)

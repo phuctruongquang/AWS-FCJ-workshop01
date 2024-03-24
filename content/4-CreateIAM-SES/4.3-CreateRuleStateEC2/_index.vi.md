@@ -13,14 +13,14 @@ pre : " <b> 4.3 </b> "
    - Tìm **Amazon EventBridge**
    - Chọn **Amazon EventBridge**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0001.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0001.png?width=90pc)
 
 2. Trong giao diện **Amazon EventBridge**
 
     - Chọn **Rules**
     - Chọn **Create rule**
   
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0002.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0002.png?width=90pc)
 
 3. Tiếp theo **Rule detail**
 
@@ -28,7 +28,7 @@ pre : " <b> 4.3 </b> "
    - Chọn **Rule with an event pattern**
    - Chọn **Next**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0003.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0003.png?width=90pc)
 
 
 4. Bước tiếp theo kéo xuống phần **Event pattern**
@@ -40,7 +40,7 @@ pre : " <b> 4.3 </b> "
    - Event type Specification 2 chọn **Specific instance id(s)** Specific instance id(s) nhập ID của instance Linux
    - Tiếp theo chọn **Next**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0004.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0004.png?width=90pc)
 
 5. Tiếp theo
 
@@ -48,16 +48,16 @@ pre : " <b> 4.3 </b> "
    - Chọn **LambdaSendMail**
    - Chọn **Next**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0005.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0005.png?width=90pc)
 
     - Chọn **Next**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0006.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0006.png?width=90pc)
 
     - Chọn **Create rule**
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0007.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0007.png?width=90pc)
 
     - Rule đã được tạo thành công
 
-    ![create rule eventbridge](/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0008.png?width=90pc)
+    ![create rule eventbridge](/aws-fcj-workshop01/images/6-CreateFunctionLambdaToMail/2CreateRuleEvent/0008.png?width=90pc)

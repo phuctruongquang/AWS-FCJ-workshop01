@@ -15,7 +15,7 @@ For servers that operate 24/7, **Saving Plan** is an effective way to optimize c
 
 Below is the deployment model you can refer to:
 
-   ![1-introduce sodo](/images/1-introduce/Workshop01-Introduce.png?width=70pc)
+   ![1-introduce sodo](/aws-fcj-workshop01/images/1-introduce/Workshop01-Introduce.png?width=70pc)
 
 #### Content
 1. [Introduce](1-Introduce)

@@ -15,7 +15,7 @@ Bài viết này sẽ hướng dẫn cách sử dụng Lambda Function để t�
 
 Dưới đây là mô hình triển khai bạn có thể tham khảo:
 
-   ![1-introduce sodo](/images/1-introduce/Workshop01-Introduce.png?width=70pc)
+   ![1-introduce sodo](/aws-fcj-workshop01/images/1-introduce/Workshop01-Introduce.png?width=70pc)
 
 #### Nội dung
 1. [Giới thiệu](1-Introduce)
